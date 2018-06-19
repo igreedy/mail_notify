@@ -4,7 +4,6 @@ from mail import Mail
 
 import os
 import json
-import datetime
 
 
 def mail_notify(msg):
